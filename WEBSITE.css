@@ -15,10 +15,12 @@ p {
 
 .section-p1 {
     padding: 40px 80px;
+    <img src="yellowgirl.jpeg" alt="">
 }
 
 .section-m1 {
     margin: 40px 0;
+    <img src="beachgirl.jpeg" alt="">
 }
 
 button.normal {
